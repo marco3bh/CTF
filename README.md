@@ -11,3 +11,6 @@ Here are some of the flags I’ve captured across different CTF platforms and ch
 Each challenge helped me improve my skills in areas such as enumeration, exploitation, web security, privilege escalation, cryptography, and general problem solving.
 
 </div>
+
+`all the starting point`
+`Cap`
