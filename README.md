@@ -12,7 +12,7 @@ Each challenge helped me improve my skills in areas such as enumeration, exploit
 
 </div>
 
-<details>HTB 
+<details>
 
 `all the starting point`
 
